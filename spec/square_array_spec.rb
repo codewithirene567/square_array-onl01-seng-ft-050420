@@ -20,3 +20,7 @@ describe '#square_array' do
   end
 
 end
+
+def square_array(array)
+  array.each do|array| puts array*array; end
+end
