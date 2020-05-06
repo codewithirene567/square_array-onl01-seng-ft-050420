@@ -21,6 +21,3 @@ describe '#square_array' do
 
 end
 
-def square_array(array)
-  array.each do|array| puts array*array; end
-end
